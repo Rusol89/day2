@@ -12,5 +12,10 @@ public static void subtract(int a , int b) {
 public static void subtract(int a , int b , int c ) {
 	System.out.println(a-b-c);
 }
+	public static void main(String[] args) {
+	String country = "USA";
+	String country = "VA";	
+		
+		
 }
 
